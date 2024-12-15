@@ -48,7 +48,7 @@ const Home = () => {
       <header>
         <div class="mainbox">
           <div class="container">
-            <h1>Design Confidently</h1>
+            <h1>Authentication</h1>
             <div class="header-left">
               <p class="para">
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sint
